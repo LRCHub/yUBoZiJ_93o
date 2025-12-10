@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Happiness phenomenon (一条莉々華 SOLO)",
+  "base_artist": "ReGLOSS",
+  "createdAt": "2025-12-10T05:54:59.122217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Happiness phenomenon (一条莉々華 SOLO)",
+      "artist": "ReGLOSS",
+      "has_synced": false,
+      "path": "select/01_Happiness_phenomenon_(一条莉々華_SOLO)_ReGLOSS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Happiness phenomenon (一条莉々華 SOLO)",
+      "artist": "ReGLOSS",
+      "has_synced": false,
+      "path": "select/pl_01_Happiness_phenomenon_(一条莉々華_SOLO)_ReGLOSS.txt"
+    }
+  ]
+}
