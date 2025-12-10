@@ -1,0 +1,61 @@
+# ReGLOSS – Happiness phenomenon (一条莉々華 SOLO)
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Daytime
+お出掛け前の routine
+鏡の中 見慣れた face
+愛する手順 I'll teach you
+"ワタシ 可愛い" それが 正義
+It's just that much
+素の自分を誇ればいい
+Hey, gotcha?
+Come, baby, baby, come
+バッチリ makeup
+Come, baby, baby, come
+無敵の super girl
+長期計画で welcome people
+永年契約で 検討希望
+どんな視線も釘づけ pretty good (okay!)
+モチベは最上界 keep on
+スタイリッシュかつ世界規模
+好きなだけ頬張って
+Happiness phenomenon
+Mm, hurry over here
+みんな 忽ち (忽ち)
+虜にすればいい (すればいい)
+きっと高嶺の花にもなれるはず
+計算できない笑顔こそが
+キミで在るための identity
+Come, baby, baby, come
+華麗に step up
+Come, baby, baby, come
+飛び級で number one
+長期計画で welcome people
+永年契約で 検討希望
+どんな視線も釘づけ pretty good (okay!)
+モチベは最上界 keep on
+スタイリッシュかつ世界規模
+好きなだけ頬張って
+Happiness phenomenon
+したり顔で 可愛い 振り撒いて
+その自信が今世紀最大の key
+盛大に褒めちぎれ 毎毎毎 毎々
+軽率に好きになれ my, my, my mind
+長期計画で welcome people
+永年契約で 検討希望
+どんな視線も釘づけ pretty good (okay!)
+モチベは最上界 keep on
+スタイリッシュかつ世界規模
+好きなだけ頬張って
+Happiness phenomenon
+(One more time!)
+長期計画で welcome people
+永年契約で 検討希望
+どんな視線も釘づけ pretty good (okay!)
+モチベは最上界 keep on
+スタイリッシュかつ世界規模
+好きなだけ頬張って
+Happiness phenomenon
+```
